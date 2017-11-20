@@ -1,4 +1,4 @@
-package com.example.reserver;
+package com.utm.reserver.reserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
